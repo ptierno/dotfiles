@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/ptierno/Projects'
+let g:netrw_dirhist_2='/Users/ptierno/Projects/puppet/app/apache/templates/vhost'
+let g:netrw_dirhist_3='/Users/ptierno/Projects/puppet/app/mdhandler/files/app'
+let g:netrw_dirhist_4='/Users/ptierno/test'
+let g:netrw_dirhist_5='/Users/ptierno/Projects/puppet/core/datapipe/lib'
+let g:netrw_dirhist_6='/Users/ptierno/Projects/puppet/app/apache'
+let g:netrw_dirhist_7='/Users/ptierno/Projects/puppet/core/motd/spec/fixtures'
+let g:netrw_dirhist_8='/Users/ptierno/Projects/puppet/core/motd/spec/fixtures/modules/core'
+let g:netrw_dirhist_9='/Users/ptierno/Projects/puppet/core/motd/spec/fixtures/modules/core/motd'
